@@ -1,4 +1,4 @@
-# TwoCheckout-DuckSell-Plugin
+# 2Checkout DuckSell Plugin
 2Checkout payment gateway integration for DuckSell
 
 ## Quick Introduction
