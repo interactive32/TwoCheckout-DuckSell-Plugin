@@ -8,7 +8,9 @@
 - ssh to your server
 - go to DuckSell's Plugins folder ```cd inc/app/Plugins```
 - clone repository ```git clone git@github.com:interactive32/TwoCheckout-DuckSell-Plugin.git```
-- login to DuckSell as admin and follow setup instructions under Plugins/2Checkout
+- go to sdk folder ```cd PayPal-DuckSell-Plugin/sdk```
+- run composer install here ```composer install```
+- login to DuckSell as admin and follow setup instructions under Plugins/PayPall
 
 ## Contributing
 You can contribute by sending pull requests or opening an issue on GitHub.
