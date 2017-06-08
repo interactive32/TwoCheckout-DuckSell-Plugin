@@ -1,0 +1,1 @@
+# TwoCheckout-DuckSell-Plugin
